@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-fpkyuc.museum-pass.icu/sitemap.xml
